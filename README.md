@@ -1,4 +1,4 @@
-# Mein Beispiel Repository  
+# Beispiel Repository  
 
 Erste Änderung
 Test
