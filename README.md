@@ -1,7 +1,5 @@
 # Beispiel Repository  
 
-Erste Änderung
-Test
 
 Änderung in Powershell:
 
